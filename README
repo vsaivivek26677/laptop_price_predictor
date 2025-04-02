@@ -1,0 +1,3 @@
+### Laptop Price Predictor ###
+Data Cleaning -> EDA -> Feature Engineering -> Applying ML models -> Exporting the model using streamlit
+Applied regression models like linear regression, ridge regression, lasso, SVM, KNN, decision tree, random forest, adaboost, etc.
